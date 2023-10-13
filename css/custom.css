@@ -1,0 +1,40 @@
+
+
+.era-card {
+  margin: 2rem;
+  padding:0;
+  width:25rem;
+}
+.era-card .card-body {
+  padding: 0.5rem 0 0 0;
+}
+.era-card h6 {
+  margin-bottom:0;
+}
+
+.era-card .card-header,
+.era-card .card-footer {
+  color: var(--bs-gray-600);
+}
+.seasons {
+  margin:-0.5rem 0 0 0;
+}
+.era-card .card-footer {
+  margin-top: 1rem;
+  font-size: 0.9rem; 
+  font-style: italic;
+}
+.era-card .card-title {
+  margin: 0.5rem;
+}
+.faq {
+  width:35rem;
+  margin: 0 auto;
+}
+.faq ol {
+  padding: 0 0 0 3rem;
+}
+
+.faq h5 {
+  margin: 3rem 0 0 0;
+}
