@@ -28,7 +28,6 @@
   margin: 0.5rem;
 }
 .faq {
-  width:35rem;
   margin: 0 auto;
 }
 .faq ol {
@@ -37,4 +36,12 @@
 
 .faq h5 {
   margin: 3rem 0 0 0;
+}
+
+
+@media (min-width: 35rem) {
+  .faq {
+    width:35rem;
+    margin: 0 auto;
+  }
 }
